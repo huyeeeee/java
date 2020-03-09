@@ -1,0 +1,6 @@
+input an even number:
+14(user input)
+input an odd number
+19(user input)
+14	12	10	8	6	4	2	BlastOff!
+19	17	15	13	11	9	7	5	3	1	BlastOff!

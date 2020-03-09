@@ -1,0 +1,3 @@
+input a number: 
+5(user input)
+squares result is: 55

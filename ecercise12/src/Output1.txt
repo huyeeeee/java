@@ -1,0 +1,33 @@
+What size hash table do you want to work with?
+Enter a positive Integer:10(input)
+How many keys do you want to generate?
+Enter a positive Integer:10(input)
+Hash Table created:
+-->4560-->8160
+-->empty
+-->5032
+-->203
+-->3804
+-->empty
+-->empty
+-->empty
+-->9298
+-->6619-->9919-->1239-->7339
+
+
+Statistics:
+Table size: 10
+Number of keys: 10
+Load factor: 1.0
+Number of collisions: 2
+Longest list: 4
+Table size		#Keys		Load factor		#Collisions		Longest list
+10				10			1.0				4				3
+10				20			2.0				11				5
+10				30			3.0				21				7
+10				40			4.0				30				6
+10				50			5.0				40				10
+10				60			6.0				50				11
+10				70			7.0				60				13
+10				80			8.0				70				13
+10				90			9.0				80				15

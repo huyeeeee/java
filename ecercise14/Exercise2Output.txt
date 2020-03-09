@@ -1,0 +1,10 @@
+String Stack Contents:
+Halifax
+Paris
+London
+
+Integer Stack Contents:
+400
+300
+200
+100

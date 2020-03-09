@@ -1,0 +1,13 @@
+30001 John Smith jsmith@email.com Management
+22344 Allison Page apage@email.com Accounting
+87987 Craig Cambell ccambell@email.com Research & Development
+78976 Steve Edwards sedwards@email.com Management
+23455 Mike Williams mwilliams@email.com Sales 
+22349 Jane Reid jreid@email.com Management
+23456 Kate West kwest@email.com Accounting
+23457 Julie McLain jmclain@email.com Sales 
+30002 Tom Erlich terlich@email.com Sales 
+21117 Mark Smith msmith@email.com Accounting
+22345 Jen Foster jfoster@email.com Sales 
+23458 Matt Knight mknight@email.com Management
+22346 Karen Weaver jkweaver@email.com Management

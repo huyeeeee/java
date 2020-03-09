@@ -1,0 +1,17 @@
+if success:
+Login: icrane(input)
+Password: qwerty123(input)
+Login successful
+Welcome Ichabod Crane
+
+if fail:
+Login: Tom(input)
+Password: 12345678(input)
+Either the username or password is incorrect. You have	2 more attempts.
+Login: Sam(input)
+Password: qwer(input)
+Either the username or password is incorrect. You have	1 more attempts.
+Login: Jack(input)
+Password: qwer1234(input)
+Either the username or password is incorrect. You have	0 more attempts.
+Sorry. Incorrect login. Please contact the system administrator.

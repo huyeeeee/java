@@ -1,0 +1,6 @@
+factorial result is: 6
+fib result is: 55
+please input x and n for power calculation:
+3(user input)
+3(user input)
+power result is: 27

@@ -1,0 +1,9 @@
+input a number: 
+1234567(user input)
+1
+2
+3
+4
+5
+6
+7

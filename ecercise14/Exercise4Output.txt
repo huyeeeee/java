@@ -1,0 +1,10 @@
+String Queue Contents:
+London
+Paris
+Halifax
+
+Integer Stack Contents:
+100
+200
+300
+400

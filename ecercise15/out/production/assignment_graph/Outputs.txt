@@ -1,0 +1,10 @@
+0 1 0 1 1
+1 0 0 1 1
+0 0 0 1 0
+1 1 1 0 0
+1 1 0 0 0
+A	visited
+B	visited
+D	visited
+E	visited
+C	visited
